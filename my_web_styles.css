@@ -7,7 +7,7 @@ body {
 
 section.img-background {
     text-indent: -9999px;
-    background-image: url("mak-RlxP6WGmfP0-unsplash.jpg");
+    background-image: url("https://images.unsplash.com/photo-1614766057193-b407080e2cdb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80");
     background-size: cover;
     display: block;
     width: 100%;
